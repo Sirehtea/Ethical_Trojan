@@ -22,8 +22,8 @@ Het project gebruikt een GitHub-repository om configuratiebestanden en modules t
 
 1. **Clone deze repository**  
 ```bash
-git clone https://github.com/Sirehtea/Netwerk_Monitoring_Tool.git
-cd Netwerk_Monitoring_Tool
+git clone https://github.com/Sirehtea/Ethical_Trojan.git
+cd Ethical_Trojan
 ```
 
 2. **Installeer requirements**  
